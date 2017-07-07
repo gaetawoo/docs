@@ -21,7 +21,7 @@ menu:
 ---
 Sometimes you’ll find your assets aren’t loading when you preview or publish your site. This is almost always due to *pathing issues*.
 
-The best way to solve this issue is to ensure you're always using absolute URLs for the environment your viewing in.
+The best way to solve this issue is to ensure you're always using absolute URLs for the environment you're viewing in.
 
 For example, we have a CSS file named `main.css` that isn’t loading when viewing subpages.
 
